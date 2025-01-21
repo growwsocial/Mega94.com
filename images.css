@@ -1,0 +1,102 @@
+ .whatsapp-button {
+      position: fixed;
+      bottom: 20px;
+      left: 20px;
+      width: 60px;
+      height: 60px;
+      background-color: #25d366;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s;
+      z-index: 1000;
+    }
+    .whatsapp-button img {
+      width: 32px;
+      height: 32px;
+    }
+    .whatsapp-button:hover {
+      transform: scale(1.1);
+    }
+  
+    .icons-youtube {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://i.postimg.cc/cHBLQxwP/youtube-removebg-preview.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+   .icons-instagram {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://i.postimg.cc/3rP3d0sW/instagram-logo-removebg-preview.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+   .icons-facebook {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://i.postimg.cc/ZqD121Z0/facebook-logo-removebg-preview.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    .icons-tiktok {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://i.postimg.cc/CKZvBdTL/tik-tok-removebg-preview.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    .icons-twitch {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://i.postimg.cc/BQX1GFx6/twitch-removebg-preview.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+    
+    .icons-kick {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://i.postimg.cc/ZK80mLWJ/images-removebg-preview.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    .icons-telegram {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://i.postimg.cc/yNkVDh8g/telegram-removebg-preview.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    .icons-spotify {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://i.postimg.cc/x1sfjpnV/spotify-removebg-preview.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
