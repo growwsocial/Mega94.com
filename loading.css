@@ -1,4 +1,10 @@
- #loading-screen {
+/* Prevent scrolling when loading screen is active */
+body.loading {
+    overflow: hidden;
+}
+
+/* Loading screen styles */
+#loading-screen {
     position: fixed;
     top: 0;
     left: 0;
