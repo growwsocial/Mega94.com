@@ -1,6 +1,7 @@
-/* Prevent scrolling when loading screen is active */
-body.loading {
+/* Disable scrolling for the body when loading */
+body.loading, html.loading {
     overflow: hidden;
+    height: 100%; /* Prevents scrolling */
 }
 
 /* Loading screen styles */
