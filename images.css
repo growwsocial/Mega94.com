@@ -59,4 +59,12 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+.mega {
+    color: #db182c;
+    display: inline-block;
+  }
 
+  .number {
+    color: white;
+    display: inline-block;
+  }
