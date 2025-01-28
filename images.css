@@ -1,11 +1,4 @@
-    .telegram-button {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 1000;
-   }
-  
-    .icons-youtube {
+   .icons-youtube {
     display: inline-block;
     width: 24px;
     height: 24px;
